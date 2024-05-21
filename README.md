@@ -2,7 +2,9 @@
 
 This project was done as part of the processor system design course by Prof. Kuruvila Varghese at the Department of Electronic Systems Engineering at the Indian Institute of Science, Bangalore.
 
-# Index
+![Architecture](figs/arch.drawio.svg)
+
+![](figs/pipeline.drawio.svg)
 
 ### Code
 
